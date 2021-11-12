@@ -11,5 +11,8 @@ public class Main {
 
         //1st commit
         System.out.println("Hello world");
+
+        //feature - commit(1)
+        System.out.println("feature - commit(1)");
     }
 }
